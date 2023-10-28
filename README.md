@@ -1,1 +1,1 @@
-# nexton-cdn.github.io
+CDN Images for https://github.com/meecan/next-ecommerce
